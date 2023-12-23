@@ -80,6 +80,8 @@ Printing Hexadecimal Values:
 int hex_value = 0xA1F;
 ft_printf("Hexadecimal value: %X\n", hex_value);
 ```
+## 🧙‍♂️ About the Wizard Behind the Keyboard
+>23 years old sorcerer of software engineering, delving into the depths of coding, one spell (I mean, function) at a time.
 
 
 
