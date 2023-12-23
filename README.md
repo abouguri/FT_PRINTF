@@ -62,7 +62,24 @@ ft_printf provides an array of format specifiers to format different types of da
 >%X - Print a hexadecimal integer (uppercase).
 
 >%% - Print just the % character.
+You can use these format specifiers to control the appearance of your output and display different data types.
 
+## Examples
+#### To help you grasp the power of ft_printf, let's dive into some examples:
+Printing Integers:
+```
+int num = 42;
+ft_printf("The answer is: %d\n", num);
+```
+Printing Strings:
+```
+ft_printf("Let's learn %s together!\n", "format printing");
+```
+Printing Hexadecimal Values:
+```
+int hex_value = 0xA1F;
+ft_printf("Hexadecimal value: %X\n", hex_value);
+```
 
 
 
