@@ -44,17 +44,25 @@ Hello, world!
 ```
 ## Format Specifiers
 ft_printf provides an array of format specifiers to format different types of data. Here are some of the mandatory conversions:
-```
-%c - Print a single character.
-%s - Print a string of characters.
-%p - Print a void * pointer argument in hexadecimal.
-%d - Print a decimal (base 10) number.
-%i - Print an integer in base 10.
-%u - Print an unsigned decimal (base 10) number.
-%x - Print a number in hexadecimal (base 16, lowercase).
-%X - Print a hexadecimal integer (uppercase).
-%% - Print just the % character.
-```
+
+>%c - Print a single character.
+
+>%s - Print a string of characters.
+
+>%p - Print a void * pointer argument in hexadecimal.
+
+>%d - Print a decimal (base 10) number.
+
+>%i - Print an integer in base 10.
+
+>%u - Print an unsigned decimal (base 10) number.
+
+>%x - Print a number in hexadecimal (base 16, lowercase).
+
+>%X - Print a hexadecimal integer (uppercase).
+
+>%% - Print just the % character.
+
 
 
 
