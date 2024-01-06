@@ -3,7 +3,6 @@
 ---
 Welcome to the ft_printf project, an essential coding endeavor that's as fundamental to a software engineer as paper is to the folks at Dunder Mifflin in Scranton. Just like how every sheet of paper at Dunder Mifflin has its unique purpose, ft_printf lets you format and print your output with precision and style.
 
-</p>
 <p align="center">
 <img src="https://media0.giphy.com/media/IJLVLpZQuS4z6/giphy.gif" width="700">
 <p/>
@@ -44,6 +43,11 @@ This code will print:
 ```
 Hello, world!
 ```
+
+<p align="center">
+<img src="https://media0.giphy.com/media/IJLVLpZQuS4z6/giphy.gif" width="700">
+<p/>
+
 ## Format Specifiers: The Art of Printing
 ft_printf offers a variety of format specifiers, akin to choosing the right type of paper and ink for each print job at Dunder Mifflin:
 
