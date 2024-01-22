@@ -45,7 +45,7 @@ Hello, world!
 ```
 
 <p align="center">
-<img src="https://media0.giphy.com/media/IJLVLpZQuS4z6/giphy.gif" width="700">
+<img src="https://media3.giphy.com/media/D2j3xOKq0O0qQ8BOVC/giphy.gif" width="700">
 <p/>
 
 ## Format Specifiers: The Art of Printing
